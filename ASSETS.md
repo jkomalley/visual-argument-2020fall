@@ -1,6 +1,7 @@
 Visual Argument Asset List
-1) "No One Breaks the Ranks" Text
-2) image of bandie 1
-3) image of bandie 2
-4) image of bandie 3
-5) image of whole band on field
+1) "No One Breaks the Ranks" Text - made in gimp
+2) dmjump1.jpg - Harry Bloomsburgh via Pitt Band Photo Archives
+3) head1.jpg - Harry Bloomsburgh via Pitt Band Photo Archives
+4) trumpet1.jpg - Harry Bloomsburgh via Pitt Band Photo Archives
+5) whoisherald1.jpg - Harry Bloomsburgh via Pitt Band Photo Archives
+6) whoisherald2.jpg - Harry Bloomsburgh via Pitt Band Photo Archives
